@@ -1,0 +1,15 @@
+1001,Smartphone,Electronics,799.99
+1002,Blender,Home Essentials,99.99
+1003,T-Shirt,Clothing,19.99
+1001,Laptop,Electronics,1299.99
+1002,Microwave,Home Essentials,149.99
+1004,Headphones,Electronics,199.99
+1005,Jeans,Clothing,49.99
+1004,Jeans,Clothing,49.99
+1002,Jeans,Clothing,49.99
+1003,Jeans,Clothing,49.99
+1003,Sweater,Clothing,39.99
+1004,Vacuum Cleaner,Home Essentials,299.99
+1002,Air Fryer,Home Essentials,129.99
+1005,Smartwatch,Electronics,249.99
+1001,TV,Electronics,999.99
