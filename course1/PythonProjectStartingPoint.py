@@ -40,6 +40,7 @@ def LoadExpenses(filename):
     # Load historical expenses from file
 
 def InteractiveMenu(filename):
+    global exitStat
     print("You may select one of the following options:\nAdd expense \nView expenses \nTrack budget \nSave expenses \nExit")
     UserInput = input("Option")
     if UserInput == 'Add expense':
@@ -54,7 +55,7 @@ def InteractiveMenu(filename):
         except:
             print("Issue saving expenses")
     elif UserInput=="Exit":
-        global exitStat+=1
+        exitStat+=1
     else: 
         "Did not input option correctly"
 
